@@ -1,7 +1,7 @@
 import pandas as pd, numpy as np 
 
 
-class Falconheavyfeatengg:
+class FalconheavyPipeline:
     def __init__(self,train_data,test_data,num_col,cat_col):
         self.train_data = train_data
         self.test_data = test_data
